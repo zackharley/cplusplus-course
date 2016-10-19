@@ -1,0 +1,6 @@
+[submodule "overload-fractions-cpp"]
+	path = overload-fractions-cpp
+	url = https://github.com/zackharley/overload-fractions-cpp
+[submodule "shakespearian-insult-generator"]
+	path = shakespearian-insult-generator
+	url = https://github.com/zackharley/shakespearian-insult-generator.git
